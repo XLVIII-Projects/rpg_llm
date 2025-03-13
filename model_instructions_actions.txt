@@ -1,0 +1,4 @@
+Instructions for generating a single action:
+- If characters are mentioned, allow for conversation. Characters should respond to actions or dialogue in a natural way.
+- Stay consistent with the location, the setting and the other generated actions.
+- Keep the action relevant and concise, no longer than 10 words.
