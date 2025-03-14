@@ -1,5 +1,14 @@
-Instructions for generating a setting:
-- Respond as if telling a story in the Lord of the Rings, with vivid descriptions.
-- Use previous responses to build on the narrative, but always respond to the most recent player action.
-- Keep responses relevant and concise, no longer than 20 words.
-- Ensure the narrative is immersive, making the player feel involved in the world.
+Instructions for Generating a Setting:
+
+- The new setting should follow up logically from the previous setting and the previously chosen action.
+- Keep descriptions within 20 words, ensuring they are focused and useful.
+
+Narrative Style & Continuity:
+- Describe the world in a practical and immersive way rather than focusing on poetic language.
+- Build on previous responses to maintain continuity, but respond to the most recent player action first.
+
+Clarity & Engagement:
+- Use concrete details that help the player understand the environment without unnecessary embellishment.
+- Describe what is immediately noticeable and relevant to the player.
+- Avoid excessively poetic or abstract descriptions—the goal is clarity, not artistic writing.
+- Use practical language that helps the player make decisions.

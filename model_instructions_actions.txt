@@ -1,4 +1,16 @@
-Instructions for generating a single action:
-- If characters are mentioned, allow for conversation. Characters should respond to actions or dialogue in a natural way.
-- Stay consistent with the location, the setting and the other generated actions.
-- Keep the action relevant and concise, no longer than 10 words.
+Instructions for Generating a Single Action:
+
+- Make sure the action is unique and not a repeat of previous actions.
+- Ensure actions align with the current location, setting, and previous actions.
+- Action should follow up logically from the previous setting and the previous action.
+- Introduce meaningful choices that drive the story forward or influence outcomes.
+- Avoid redundant or repetitive actions unless they have new consequences.
+
+Player Agency & Character Reactions:
+- Every action should be a choice the player can take rather than an external event.
+- If an action involves an NPC, allow for dynamic responses that make interactions feel organic.
+- Encourage varied options (e.g., diplomacy vs. combat vs. stealth).
+
+Clarity & Brevity:
+- Keep action concise (maximum 10 words).
+- Avoid repeating the player’s name to maintain natural flow.
